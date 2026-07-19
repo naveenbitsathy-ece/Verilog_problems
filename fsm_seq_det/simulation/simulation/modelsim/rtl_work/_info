@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Naveenraj_projects_BIT/fsm_seq_det/simulation/simulation/modelsim
+vfsm_1010_tggle
+!s110 1783403174
+!i10b 1
+!s100 kF;O`F[?`Wikh=MmC<c?c3
+IEQIB>Llo^chV;>`e4>Xbi3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1783402954
+8C:/Naveenraj_projects_BIT/fsm_seq_det/fsm_1010_tggle.v
+FC:/Naveenraj_projects_BIT/fsm_seq_det/fsm_1010_tggle.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1783403174.000000
+!s107 C:/Naveenraj_projects_BIT/fsm_seq_det/fsm_1010_tggle.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Naveenraj_projects_BIT/fsm_seq_det|C:/Naveenraj_projects_BIT/fsm_seq_det/fsm_1010_tggle.v|
+!i113 1
+Z3 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Naveenraj_projects_BIT/fsm_seq_det
+Z4 tCvgOpt 0
+vfsm_1010_tggle_tb
+!s110 1783403175
+!i10b 1
+!s100 Q[G6kGgVX]R41]WbiTEhK3
+I8Df18QIi_@9^8]nhBozhd2
+R1
+R0
+w1783403132
+8C:/Naveenraj_projects_BIT/fsm_seq_det/simulation/../fsm_1010_tggle_tb.v
+FC:/Naveenraj_projects_BIT/fsm_seq_det/simulation/../fsm_1010_tggle_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1783403175.000000
+!s107 C:/Naveenraj_projects_BIT/fsm_seq_det/simulation/../fsm_1010_tggle_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Naveenraj_projects_BIT/fsm_seq_det/simulation/..|C:/Naveenraj_projects_BIT/fsm_seq_det/simulation/../fsm_1010_tggle_tb.v|
+!i113 1
+R3
+!s92 -vlog01compat -work work +incdir+C:/Naveenraj_projects_BIT/fsm_seq_det/simulation/..
+R4

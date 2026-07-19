@@ -1,0 +1,15 @@
+|fsm_1010_tggle
+clk => state~1.DATAIN
+rst => state~3.DATAIN
+seq => next_state.S3.DATAB
+seq => Selector1.IN2
+seq => Selector5.IN1
+seq => Selector3.IN1
+seq => Selector0.IN1
+seq => Selector2.IN1
+seq => next_state.S4.DATAB
+seq => Selector4.IN1
+seq => next_state.S8.DATAB
+out <= out.DB_MAX_OUTPUT_PORT_TYPE
+
+

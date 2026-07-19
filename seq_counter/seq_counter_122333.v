@@ -1,7 +1,7 @@
 
 // Counter 1 ----> 2 ----> 2 ----> 3 ----> 3 ----> 3;
 
-module counter(
+module seq_counter_122333(
 input clk,
 input rst,
 output reg [1:0]out

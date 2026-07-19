@@ -1,6 +1,6 @@
-//`timescale 1ns/1ps
+`timescale 1ns/1ps
 
-module counter_tb;
+module seq_counter_122333_tb;
 
 reg clk;
 reg rst;
